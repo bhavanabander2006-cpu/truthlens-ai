@@ -1,0 +1,6 @@
+{
+  "name": "TruthLens AI",
+  "description": "Multi-modal AI vs Human media detection platform analyzing images, audio, and video for synthetic artifacts and deepfakes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
